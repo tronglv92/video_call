@@ -41,6 +41,7 @@ class _InComingVideoPageState extends State<InComingVideoPage> {
   onPressEndCall() async{
     await audioPlayer?.stop();
     await _callProvider.endCall();
+    Navigator.of(context).pop();
   }
 
   @override

@@ -63,7 +63,8 @@ class CallProvider extends ChangeNotifierSafety {
 
     await _engine.enableWebSdkInteroperability(true);
     VideoEncoderConfiguration configuration = VideoEncoderConfiguration();
-    configuration.dimensions = VideoDimensions(1920, 1080);
+
+    configuration.dimensions =  VideoDimensions(width: 1920,height: 1080);
     await _engine.setVideoEncoderConfiguration(configuration);
 
     await _engine.joinChannel(Token, chanelName, null, 0);
