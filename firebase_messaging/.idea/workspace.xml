@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5cc14048-de2c-42a3-86a4-bd1c6e4f655b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1uheeGQWHQ48AcMXbKzhIhaWHor" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5cc14048-de2c-42a3-86a4-bd1c6e4f655b" name="Default Changelist" comment="" />
+      <created>1625122341297</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1625122341297</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2377" y="487" width="699" height="490" key="find.popup" timestamp="1625455000863">
+      <screen x="1440" y="25" width="2490" height="1415" />
+    </state>
+    <state x="2377" y="487" width="699" height="490" key="find.popup/0.25.1440.875/1440.25.2490.1415@1440.25.2490.1415" timestamp="1625455000863" />
+    <state x="2461" y="462" width="670" height="676" key="search.everywhere.popup" timestamp="1625455008730">
+      <screen x="1440" y="25" width="2490" height="1415" />
+    </state>
+    <state x="2461" y="462" width="670" height="676" key="search.everywhere.popup/0.25.1440.875/1440.25.2490.1415@1440.25.2490.1415" timestamp="1625455008730" />
+  </component>
+</project>
